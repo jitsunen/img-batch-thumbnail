@@ -1,0 +1,11 @@
+{
+  "name": "img-thumbnail-batch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "manuy",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "image-thumbnail": "^1.0.0"
+  }
+}
